@@ -1,3 +1,3 @@
-module github.com/LCVcode/linalg
+module github.com/LCVcode/go-linalg
 
 go 1.18

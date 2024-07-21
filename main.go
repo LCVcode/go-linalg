@@ -1,7 +1,7 @@
 package main
 
 import (
-    "github.com/LCVcode/linalg/matrix"
+    "github.com/LCVcode/go-linalg/matrix"
 )
 
 func main() {
